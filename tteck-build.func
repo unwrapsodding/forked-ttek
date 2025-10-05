@@ -478,7 +478,7 @@ advanced_settings() {
 }
 
 install_script() {
-  pve_check
+#  pve_check
   shell_check
   root_check
   arch_check
